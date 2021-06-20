@@ -6,3 +6,9 @@
   > npm install react-scripts--save
 # It start excute script where it build WebUI App where it run on our localhost 
   > npm start
+ # Run and Build App
+  > npm run build
+# Install serve pkg to run Script on localhost
+  > npm install -g serve
+# start localhost server
+  > serve -s build
