@@ -8,7 +8,7 @@
   > npm start
  # Run and Build App
   > npm run build
-# Install serve pkg to run Script on localhost
+# Install servee pkg to run Script on localhost
   > npm install -g serve
-# start localhost server
+# start localhost server and run script on localhost
   > serve -s build
